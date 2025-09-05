@@ -21,31 +21,32 @@ If I am granted access to the PhysioNet Clinical Databases, I agree to the terms
   
 ---  
 
-My name:  
-My PhysioNetWorks username:  
-Telephone number, including country/area code (required):  
-Institution:  
-Title or position:  
-Street address:  
-City:  
-State/Province:  
-ZIP/postal code:  
-Country:  
+My name:  Justin Wan
+My PhysioNetWorks username: jlw447  
+Telephone number, including country/area code (required):  301-746-2052, US 20817
+Institution: Cornell University SSO 
+Title or position:  Undergraduate student
+Street address:  8709 Fenway Dr
+City:  Bethesda
+State/Province:  MD
+ZIP/postal code:  20817
+Country:  USA
   
 Name of human studies training course completed:  
-Date completed:  
+Date completed:  9/5/2025
   
-* Supervisor's name:   
-* Supervisor's telephone number:  
-* Supervisor's email address:  
-* Supervisor's title:  
+* Supervisor's name:   Matthew Wilkens
+* Supervisor's telephone number:  (607) 255-6979
+
+* Supervisor's email address:  wilkens@cornell.edu
+* Supervisor's title:  Prof. Matthew Wilkens
 (* information required for students and postdocs)   
   
-General research area for which the data will be used:   
+General research area for which the data will be used:   Predictive analysis on diseases
   
-Date of this agreement:   
+Date of this agreement:   9/5/2025
   
-[ ] I have attached a certificate of completion of a human subjects
+[ https://www.citiprogram.org/verify/?wbda2a4de-d906-4a63-bfdf-91fc67fb5d45-72017541] I have attached a certificate of completion of a human subjects
 protections course. 
 
 ---    
